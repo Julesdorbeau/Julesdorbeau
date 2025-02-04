@@ -1,9 +1,16 @@
 # About Me:
-I work on all kinds of projects in data science, analytics, Power BI, data engineering, AI, and machine learning. 
-I also take on more traditional projects if they seem interesting or fun. 
-My goal is to keep learning with every project while building new skills and enjoying the process. 
-I'm always open to new ideas and challenges, anything that helps me explore new topics and grow!
 
+Je travaille sur toutes sortes de projets en data science, analyse de données, Power BI, data engineering, IA et machine learning. 
+J’aime aussi realiser des projets sur d'autres sujets s’ils me semblent intéressants ou amusants. 
+Mon objectif est d’apprendre toujours plus à chaque projet, tout en développant mes compétences, en prenant du plaisir à le faire et en sortant de ma zone de confort. 
+Je suis toujours ouvert à de nouvelles idées et défis, tout ce qui me permet d’explorer de nouveaux sujets !
+
+---
+
+I work on all kinds of projects in data science, analytics, Power BI, data engineering, AI, and machine learning. 
+I also take on projects on different subjects if they seem interesting or fun. 
+My goal is to keep learning with every project while developing my skills, enjoying the process, and stepping out of my comfort zone.
+I'm always open to new ideas and challenges, anything that helps me explore new topics!
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jules-dorbeau/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:julesdorbeau@hotmail.fr) 
